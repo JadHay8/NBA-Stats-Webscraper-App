@@ -1,0 +1,1304 @@
+[
+  {
+    "name": "Jonas Valančiūnas",
+    "team": "NOP",
+    "rebounds": "14.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "rebounds": "14.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "UTA",
+    "rebounds": "13.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Nikola Jokić",
+    "team": "DEN",
+    "rebounds": "13.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Nikola Vučević",
+    "team": "CHI",
+    "rebounds": "12.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "MIN",
+    "rebounds": "10.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "rebounds": "10.7",
+    "games_played": "10"
+  },
+  {
+    "name": "Bobby Portis",
+    "team": "MIL",
+    "rebounds": "10.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Luka Dončić",
+    "team": "DAL",
+    "rebounds": "9.8",
+    "games_played": "15"
+  },
+  {
+    "name": "Al Horford",
+    "team": "BOS",
+    "rebounds": "9.3",
+    "games_played": "15"
+  },
+  {
+    "name": "Scottie Barnes",
+    "team": "TOR",
+    "rebounds": "9.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Deandre Ayton",
+    "team": "PHO",
+    "rebounds": "8.9",
+    "games_played": "13"
+  },
+  {
+    "name": "Ja Morant",
+    "team": "MEM",
+    "rebounds": "8.0",
+    "games_played": "9"
+  },
+  {
+    "name": "Bam Adebayo",
+    "team": "MIA",
+    "rebounds": "7.8",
+    "games_played": "16"
+  },
+  {
+    "name": "Kevon Looney",
+    "team": "GSW",
+    "rebounds": "7.7",
+    "games_played": "16"
+  },
+  {
+    "name": "Tobias Harris",
+    "team": "PHI",
+    "rebounds": "7.6",
+    "games_played": "12"
+  },
+  {
+    "name": "Clint Capela",
+    "team": "ATL",
+    "rebounds": "7.5",
+    "games_played": "2"
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "DEN",
+    "rebounds": "7.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "TOR",
+    "rebounds": "7.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "team": "MIN",
+    "rebounds": "7.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "MIA",
+    "rebounds": "7.1",
+    "games_played": "15"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "GSW",
+    "rebounds": "7.0",
+    "games_played": "16"
+  },
+  {
+    "name": "Jaylen Brown",
+    "team": "BOS",
+    "rebounds": "6.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Brandon Clarke",
+    "team": "MEM",
+    "rebounds": "6.9",
+    "games_played": "12"
+  },
+  {
+    "name": "Draymond Green",
+    "team": "GSW",
+    "rebounds": "6.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "team": "MEM",
+    "rebounds": "6.8",
+    "games_played": "12"
+  },
+  {
+    "name": "CJ McCollum",
+    "team": "NOP",
+    "rebounds": "6.7",
+    "games_played": "6"
+  },
+  {
+    "name": "Steven Adams",
+    "team": "MEM",
+    "rebounds": "6.4",
+    "games_played": "7"
+  },
+  {
+    "name": "Nic Claxton",
+    "team": "BRK",
+    "rebounds": "6.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "rebounds": "6.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "NOP",
+    "rebounds": "6.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Robert Williams",
+    "team": "BOS",
+    "rebounds": "6.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "MIL",
+    "rebounds": "5.9",
+    "games_played": "12"
+  },
+  {
+    "name": "Chris Boucher",
+    "team": "TOR",
+    "rebounds": "5.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "BRK",
+    "rebounds": "5.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "team": "NOP",
+    "rebounds": "5.8",
+    "games_played": "6"
+  },
+  {
+    "name": "P.J. Tucker",
+    "team": "MIA",
+    "rebounds": "5.8",
+    "games_played": "16"
+  },
+  {
+    "name": "James Harden",
+    "team": "PHI",
+    "rebounds": "5.7",
+    "games_played": "12"
+  },
+  {
+    "name": "Royce O'Neale",
+    "team": "UTA",
+    "rebounds": "5.7",
+    "games_played": "6"
+  },
+  {
+    "name": "Will Barton",
+    "team": "DEN",
+    "rebounds": "5.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "MIL",
+    "rebounds": "5.6",
+    "games_played": "12"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "team": "DAL",
+    "rebounds": "5.5",
+    "games_played": "18"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "CHI",
+    "rebounds": "5.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "team": "ATL",
+    "rebounds": "5.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Patrick Williams",
+    "team": "CHI",
+    "rebounds": "5.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "BRK",
+    "rebounds": "5.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Zach LaVine",
+    "team": "CHI",
+    "rebounds": "5.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "team": "UTA",
+    "rebounds": "5.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "MIL",
+    "rebounds": "5.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Trae Young",
+    "team": "ATL",
+    "rebounds": "5.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "GSW",
+    "rebounds": "4.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Precious Achiuwa",
+    "team": "TOR",
+    "rebounds": "4.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Bogdan Bogdanović",
+    "team": "ATL",
+    "rebounds": "4.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Devin Booker",
+    "team": "PHO",
+    "rebounds": "4.8",
+    "games_played": "10"
+  },
+  {
+    "name": "Bruce Brown",
+    "team": "BRK",
+    "rebounds": "4.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Delon Wright",
+    "team": "ATL",
+    "rebounds": "4.8",
+    "games_played": "5"
+  },
+  {
+    "name": "Mikal Bridges",
+    "team": "PHO",
+    "rebounds": "4.7",
+    "games_played": "13"
+  },
+  {
+    "name": "Jae Crowder",
+    "team": "PHO",
+    "rebounds": "4.7",
+    "games_played": "13"
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "DAL",
+    "rebounds": "4.6",
+    "games_played": "18"
+  },
+  {
+    "name": "Reggie Bullock",
+    "team": "DAL",
+    "rebounds": "4.6",
+    "games_played": "18"
+  },
+  {
+    "name": "John Collins",
+    "team": "ATL",
+    "rebounds": "4.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Maxi Kleber",
+    "team": "DAL",
+    "rebounds": "4.6",
+    "games_played": "18"
+  },
+  {
+    "name": "Goran Dragić",
+    "team": "BRK",
+    "rebounds": "4.5",
+    "games_played": "4"
+  },
+  {
+    "name": "Kyle Anderson",
+    "team": "MEM",
+    "rebounds": "4.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Pat Connaughton",
+    "team": "MIL",
+    "rebounds": "4.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "UTA",
+    "rebounds": "4.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "GSW",
+    "rebounds": "4.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Grant Williams",
+    "team": "BOS",
+    "rebounds": "4.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Bojan Bogdanović",
+    "team": "UTA",
+    "rebounds": "4.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Anthony Edwards",
+    "team": "MIN",
+    "rebounds": "4.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "team": "ATL",
+    "rebounds": "4.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Chris Paul",
+    "team": "PHO",
+    "rebounds": "4.2",
+    "games_played": "13"
+  },
+  {
+    "name": "Marcus Smart",
+    "team": "BOS",
+    "rebounds": "4.2",
+    "games_played": "13"
+  },
+  {
+    "name": "Tyler Herro",
+    "team": "MIA",
+    "rebounds": "4.1",
+    "games_played": "14"
+  },
+  {
+    "name": "Otto Porter Jr.",
+    "team": "GSW",
+    "rebounds": "4.1",
+    "games_played": "13"
+  },
+  {
+    "name": "OG Anunoby",
+    "team": "TOR",
+    "rebounds": "4.0",
+    "games_played": "6"
+  },
+  {
+    "name": "JaVale McGee",
+    "team": "PHO",
+    "rebounds": "4.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Max Strus",
+    "team": "MIA",
+    "rebounds": "3.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Desmond Bane",
+    "team": "MEM",
+    "rebounds": "3.8",
+    "games_played": "12"
+  },
+  {
+    "name": "De'Andre Hunter",
+    "team": "ATL",
+    "rebounds": "3.8",
+    "games_played": "5"
+  },
+  {
+    "name": "Paul Reed",
+    "team": "PHI",
+    "rebounds": "3.8",
+    "games_played": "12"
+  },
+  {
+    "name": "Derrick White",
+    "team": "BOS",
+    "rebounds": "3.7",
+    "games_played": "15"
+  },
+  {
+    "name": "Jeff Green",
+    "team": "DEN",
+    "rebounds": "3.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Cameron Johnson",
+    "team": "PHO",
+    "rebounds": "3.5",
+    "games_played": "13"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "team": "PHI",
+    "rebounds": "3.5",
+    "games_played": "12"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "team": "DEN",
+    "rebounds": "3.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Daniel Theis",
+    "team": "BOS",
+    "rebounds": "3.4",
+    "games_played": "14"
+  },
+  {
+    "name": "Coby White",
+    "team": "CHI",
+    "rebounds": "3.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Malik Beasley",
+    "team": "MIN",
+    "rebounds": "3.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Herbert Jones",
+    "team": "NOP",
+    "rebounds": "3.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Tyus Jones",
+    "team": "MEM",
+    "rebounds": "3.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Xavier Tillman Sr.",
+    "team": "MEM",
+    "rebounds": "3.3",
+    "games_played": "9"
+  },
+  {
+    "name": "Patrick Beverley",
+    "team": "MIN",
+    "rebounds": "3.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "team": "UTA",
+    "rebounds": "3.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Mike Conley",
+    "team": "UTA",
+    "rebounds": "3.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Victor Oladipo",
+    "team": "MIA",
+    "rebounds": "3.2",
+    "games_played": "13"
+  },
+  {
+    "name": "Jordan Poole",
+    "team": "GSW",
+    "rebounds": "3.2",
+    "games_played": "16"
+  },
+  {
+    "name": "Danny Green",
+    "team": "PHI",
+    "rebounds": "3.1",
+    "games_played": "12"
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "MIA",
+    "rebounds": "3.1",
+    "games_played": "8"
+  },
+  {
+    "name": "Wesley Matthews",
+    "team": "MIL",
+    "rebounds": "3.1",
+    "games_played": "12"
+  },
+  {
+    "name": "De'Anthony Melton",
+    "team": "MEM",
+    "rebounds": "3.1",
+    "games_played": "10"
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "team": "MIA",
+    "rebounds": "3.0",
+    "games_played": "14"
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "BRK",
+    "rebounds": "3.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Javonte Green",
+    "team": "CHI",
+    "rebounds": "3.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Kevin Huerter",
+    "team": "ATL",
+    "rebounds": "3.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Gary Payton II",
+    "team": "GSW",
+    "rebounds": "3.0",
+    "games_played": "7"
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "TOR",
+    "rebounds": "3.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Thaddeus Young",
+    "team": "TOR",
+    "rebounds": "3.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Grayson Allen",
+    "team": "MIL",
+    "rebounds": "2.9",
+    "games_played": "12"
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "CHI",
+    "rebounds": "2.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Danuel House Jr.",
+    "team": "UTA",
+    "rebounds": "2.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Jaden McDaniels",
+    "team": "MIN",
+    "rebounds": "2.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Naz Reid",
+    "team": "MIN",
+    "rebounds": "2.8",
+    "games_played": "5"
+  },
+  {
+    "name": "Dillon Brooks",
+    "team": "MEM",
+    "rebounds": "2.7",
+    "games_played": "11"
+  },
+  {
+    "name": "Troy Brown Jr.",
+    "team": "CHI",
+    "rebounds": "2.7",
+    "games_played": "3"
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "team": "CHI",
+    "rebounds": "2.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Dwight Powell",
+    "team": "DAL",
+    "rebounds": "2.6",
+    "games_played": "18"
+  },
+  {
+    "name": "Seth Curry",
+    "team": "BRK",
+    "rebounds": "2.5",
+    "games_played": "4"
+  },
+  {
+    "name": "Jaxson Hayes",
+    "team": "NOP",
+    "rebounds": "2.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Trey Murphy III",
+    "team": "NOP",
+    "rebounds": "2.5",
+    "games_played": "6"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "team": "MIN",
+    "rebounds": "2.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "team": "DAL",
+    "rebounds": "2.4",
+    "games_played": "18"
+  },
+  {
+    "name": "JaMychal Green",
+    "team": "DEN",
+    "rebounds": "2.4",
+    "games_played": "5"
+  },
+  {
+    "name": "John Konchar",
+    "team": "MEM",
+    "rebounds": "2.4",
+    "games_played": "8"
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "team": "MIN",
+    "rebounds": "2.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "team": "GSW",
+    "rebounds": "2.3",
+    "games_played": "10"
+  },
+  {
+    "name": "Jarrett Culver",
+    "team": "MEM",
+    "rebounds": "2.3",
+    "games_played": "3"
+  },
+  {
+    "name": "Andre Iguodala",
+    "team": "GSW",
+    "rebounds": "2.3",
+    "games_played": "3"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "PHI",
+    "rebounds": "2.3",
+    "games_played": "3"
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "team": "GSW",
+    "rebounds": "2.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Damion Lee",
+    "team": "GSW",
+    "rebounds": "2.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Monte Morris",
+    "team": "DEN",
+    "rebounds": "2.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Gabe Vincent",
+    "team": "MIA",
+    "rebounds": "2.2",
+    "games_played": "16"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "team": "PHO",
+    "rebounds": "2.1",
+    "games_played": "9"
+  },
+  {
+    "name": "Caleb Martin",
+    "team": "MIA",
+    "rebounds": "2.1",
+    "games_played": "16"
+  },
+  {
+    "name": "Payton Pritchard",
+    "team": "BOS",
+    "rebounds": "2.1",
+    "games_played": "16"
+  },
+  {
+    "name": "Tony Bradley",
+    "team": "CHI",
+    "rebounds": "2.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Blake Griffin",
+    "team": "BRK",
+    "rebounds": "2.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Juancho Hernangómez",
+    "team": "UTA",
+    "rebounds": "2.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Willy Hernangómez",
+    "team": "NOP",
+    "rebounds": "2.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Bones Hyland",
+    "team": "DEN",
+    "rebounds": "2.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Duncan Robinson",
+    "team": "MIA",
+    "rebounds": "1.9",
+    "games_played": "12"
+  },
+  {
+    "name": "Charles Bassey",
+    "team": "PHI",
+    "rebounds": "1.7",
+    "games_played": "3"
+  },
+  {
+    "name": "Torrey Craig",
+    "team": "PHO",
+    "rebounds": "1.7",
+    "games_played": "9"
+  },
+  {
+    "name": "Serge Ibaka",
+    "team": "MIL",
+    "rebounds": "1.7",
+    "games_played": "6"
+  },
+  {
+    "name": "Landry Shamet",
+    "team": "PHO",
+    "rebounds": "1.7",
+    "games_played": "12"
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "team": "TOR",
+    "rebounds": "1.7",
+    "games_played": "6"
+  },
+  {
+    "name": "Shake Milton",
+    "team": "PHI",
+    "rebounds": "1.6",
+    "games_played": "12"
+  },
+  {
+    "name": "Taurean Prince",
+    "team": "MIN",
+    "rebounds": "1.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "CHI",
+    "rebounds": "1.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Ish Wainright",
+    "team": "PHO",
+    "rebounds": "1.6",
+    "games_played": "7"
+  },
+  {
+    "name": "Ziaire Williams",
+    "team": "MEM",
+    "rebounds": "1.6",
+    "games_played": "10"
+  },
+  {
+    "name": "Khem Birch",
+    "team": "TOR",
+    "rebounds": "1.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Jevon Carter",
+    "team": "MIL",
+    "rebounds": "1.5",
+    "games_played": "11"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "team": "ATL",
+    "rebounds": "1.5",
+    "games_played": "2"
+  },
+  {
+    "name": "Devonte' Graham",
+    "team": "NOP",
+    "rebounds": "1.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Georges Niang",
+    "team": "PHI",
+    "rebounds": "1.5",
+    "games_played": "12"
+  },
+  {
+    "name": "Cameron Payne",
+    "team": "PHO",
+    "rebounds": "1.5",
+    "games_played": "13"
+  },
+  {
+    "name": "Dāvis Bertāns",
+    "team": "DAL",
+    "rebounds": "1.4",
+    "games_played": "18"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "team": "CHI",
+    "rebounds": "1.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Jose Alvarado",
+    "team": "NOP",
+    "rebounds": "1.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "team": "PHI",
+    "rebounds": "1.3",
+    "games_played": "9"
+  },
+  {
+    "name": "Eric Paschall",
+    "team": "UTA",
+    "rebounds": "1.3",
+    "games_played": "4"
+  },
+  {
+    "name": "George Hill",
+    "team": "MIL",
+    "rebounds": "1.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Aaron Nesmith",
+    "team": "BOS",
+    "rebounds": "1.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Marquese Chriss",
+    "team": "DAL",
+    "rebounds": "1.1",
+    "games_played": "8"
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "team": "UTA",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Isaac Bonga",
+    "team": "TOR",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Jared Butler",
+    "team": "UTA",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Vlatko Čančar",
+    "team": "DEN",
+    "rebounds": "1.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Kevin Knox",
+    "team": "ATL",
+    "rebounds": "1.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Boban Marjanović",
+    "team": "DAL",
+    "rebounds": "1.0",
+    "games_played": "3"
+  },
+  {
+    "name": "Naji Marshall",
+    "team": "NOP",
+    "rebounds": "1.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Patty Mills",
+    "team": "BRK",
+    "rebounds": "1.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Paul Millsap",
+    "team": "PHI",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Greg Monroe",
+    "team": "MIN",
+    "rebounds": "1.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Markieff Morris",
+    "team": "MIA",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Frank Ntilikina",
+    "team": "DAL",
+    "rebounds": "1.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Garrett Temple",
+    "team": "NOP",
+    "rebounds": "1.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Matisse Thybulle",
+    "team": "PHI",
+    "rebounds": "1.0",
+    "games_played": "9"
+  },
+  {
+    "name": "Sterling Brown",
+    "team": "DAL",
+    "rebounds": "0.9",
+    "games_played": "9"
+  },
+  {
+    "name": "Moses Moody",
+    "team": "GSW",
+    "rebounds": "0.9",
+    "games_played": "9"
+  },
+  {
+    "name": "Facundo Campazzo",
+    "team": "DEN",
+    "rebounds": "0.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Josh Green",
+    "team": "DAL",
+    "rebounds": "0.8",
+    "games_played": "16"
+  },
+  {
+    "name": "Timothé Luwawu-Cabarrot",
+    "team": "ATL",
+    "rebounds": "0.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Jaden Springer",
+    "team": "PHI",
+    "rebounds": "0.8",
+    "games_played": "5"
+  },
+  {
+    "name": "Juan Toscano-Anderson",
+    "team": "GSW",
+    "rebounds": "0.8",
+    "games_played": "10"
+  },
+  {
+    "name": "Omer Yurtseven",
+    "team": "MIA",
+    "rebounds": "0.8",
+    "games_played": "9"
+  },
+  {
+    "name": "Bryn Forbes",
+    "team": "DEN",
+    "rebounds": "0.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "team": "MIA",
+    "rebounds": "0.6",
+    "games_played": "8"
+  },
+  {
+    "name": "Austin Rivers",
+    "team": "DEN",
+    "rebounds": "0.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Thanasis Antetokounmpo",
+    "team": "MIL",
+    "rebounds": "0.5",
+    "games_played": "8"
+  },
+  {
+    "name": "Dalano Banton",
+    "team": "TOR",
+    "rebounds": "0.5",
+    "games_played": "4"
+  },
+  {
+    "name": "Armoni Brooks",
+    "team": "TOR",
+    "rebounds": "0.5",
+    "games_played": "4"
+  },
+  {
+    "name": "Malachi Flynn",
+    "team": "TOR",
+    "rebounds": "0.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Sam Hauser",
+    "team": "BOS",
+    "rebounds": "0.5",
+    "games_played": "2"
+  },
+  {
+    "name": "Aaron Holiday",
+    "team": "PHO",
+    "rebounds": "0.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Luke Kornet",
+    "team": "BOS",
+    "rebounds": "0.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Skylar Mays",
+    "team": "ATL",
+    "rebounds": "0.5",
+    "games_played": "2"
+  },
+  {
+    "name": "Juwan Morgan",
+    "team": "BOS",
+    "rebounds": "0.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Jordan Nwora",
+    "team": "MIL",
+    "rebounds": "0.4",
+    "games_played": "8"
+  },
+  {
+    "name": "Rayjon Tucker",
+    "team": "MIL",
+    "rebounds": "0.4",
+    "games_played": "8"
+  },
+  {
+    "name": "Trey Burke",
+    "team": "DAL",
+    "rebounds": "0.3",
+    "games_played": "10"
+  },
+  {
+    "name": "Malik Fitts",
+    "team": "BOS",
+    "rebounds": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "PHI",
+    "rebounds": "0.3",
+    "games_played": "7"
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "team": "TOR",
+    "rebounds": "0.3",
+    "games_played": "3"
+  },
+  {
+    "name": "Luca Vildoza",
+    "team": "MIL",
+    "rebounds": "0.3",
+    "games_played": "7"
+  },
+  {
+    "name": "Nik Stauskas",
+    "team": "BOS",
+    "rebounds": "0.1",
+    "games_played": "8"
+  },
+  {
+    "name": "Kessler Edwards",
+    "team": "BRK",
+    "rebounds": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "rebounds": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Zeke Nnaji",
+    "team": "DEN",
+    "rebounds": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Jaylen Nowell",
+    "team": "MIN",
+    "rebounds": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Josh Okogie",
+    "team": "MIN",
+    "rebounds": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Elfrid Payton",
+    "team": "PHO",
+    "rebounds": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "team": "BRK",
+    "rebounds": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Cam Thomas",
+    "team": "BRK",
+    "rebounds": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Yuta Watanabe",
+    "team": "TOR",
+    "rebounds": "0.0",
+    "games_played": "4"
+  }
+]

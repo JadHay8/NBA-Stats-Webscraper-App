@@ -1,0 +1,1304 @@
+[
+  {
+    "name": "Jaren Jackson Jr.",
+    "team": "MEM",
+    "blocks": "2.5",
+    "games_played": "12"
+  },
+  {
+    "name": "Nic Claxton",
+    "team": "BRK",
+    "blocks": "2.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Robert Williams",
+    "team": "BOS",
+    "blocks": "2.1",
+    "games_played": "9"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "MIN",
+    "blocks": "2.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Jaden McDaniels",
+    "team": "MIN",
+    "blocks": "1.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Al Horford",
+    "team": "BOS",
+    "blocks": "1.7",
+    "games_played": "15"
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "MIL",
+    "blocks": "1.5",
+    "games_played": "12"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "blocks": "1.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "BRK",
+    "blocks": "1.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "team": "UTA",
+    "blocks": "1.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Patrick Beverley",
+    "team": "MIN",
+    "blocks": "1.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Chris Boucher",
+    "team": "TOR",
+    "blocks": "1.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Anthony Edwards",
+    "team": "MIN",
+    "blocks": "1.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "DEN",
+    "blocks": "1.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Naz Reid",
+    "team": "MIN",
+    "blocks": "1.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Nikola Vučević",
+    "team": "CHI",
+    "blocks": "1.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Draymond Green",
+    "team": "GSW",
+    "blocks": "1.1",
+    "games_played": "16"
+  },
+  {
+    "name": "Mikal Bridges",
+    "team": "PHO",
+    "blocks": "1.0",
+    "games_played": "13"
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "CHI",
+    "blocks": "1.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "UTA",
+    "blocks": "1.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Nikola Jokić",
+    "team": "DEN",
+    "blocks": "1.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "TOR",
+    "blocks": "1.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "TOR",
+    "blocks": "1.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "blocks": "0.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "GSW",
+    "blocks": "0.9",
+    "games_played": "16"
+  },
+  {
+    "name": "Precious Achiuwa",
+    "team": "TOR",
+    "blocks": "0.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Bam Adebayo",
+    "team": "MIA",
+    "blocks": "0.8",
+    "games_played": "16"
+  },
+  {
+    "name": "Deandre Ayton",
+    "team": "PHO",
+    "blocks": "0.8",
+    "games_played": "13"
+  },
+  {
+    "name": "Desmond Bane",
+    "team": "MEM",
+    "blocks": "0.8",
+    "games_played": "12"
+  },
+  {
+    "name": "Bruce Brown",
+    "team": "BRK",
+    "blocks": "0.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Brandon Clarke",
+    "team": "MEM",
+    "blocks": "0.8",
+    "games_played": "12"
+  },
+  {
+    "name": "Seth Curry",
+    "team": "BRK",
+    "blocks": "0.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "BRK",
+    "blocks": "0.8",
+    "games_played": "4"
+  },
+  {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "blocks": "0.8",
+    "games_played": "10"
+  },
+  {
+    "name": "Tobias Harris",
+    "team": "PHI",
+    "blocks": "0.8",
+    "games_played": "12"
+  },
+  {
+    "name": "Herbert Jones",
+    "team": "NOP",
+    "blocks": "0.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Maxi Kleber",
+    "team": "DAL",
+    "blocks": "0.8",
+    "games_played": "18"
+  },
+  {
+    "name": "CJ McCollum",
+    "team": "NOP",
+    "blocks": "0.8",
+    "games_played": "6"
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "team": "ATL",
+    "blocks": "0.8",
+    "games_played": "5"
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "GSW",
+    "blocks": "0.8",
+    "games_played": "16"
+  },
+  {
+    "name": "Matisse Thybulle",
+    "team": "PHI",
+    "blocks": "0.8",
+    "games_played": "9"
+  },
+  {
+    "name": "Grant Williams",
+    "team": "BOS",
+    "blocks": "0.8",
+    "games_played": "16"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "MIA",
+    "blocks": "0.7",
+    "games_played": "15"
+  },
+  {
+    "name": "James Harden",
+    "team": "PHI",
+    "blocks": "0.7",
+    "games_played": "12"
+  },
+  {
+    "name": "Andre Iguodala",
+    "team": "GSW",
+    "blocks": "0.7",
+    "games_played": "3"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "PHI",
+    "blocks": "0.7",
+    "games_played": "3"
+  },
+  {
+    "name": "Gary Payton II",
+    "team": "GSW",
+    "blocks": "0.7",
+    "games_played": "7"
+  },
+  {
+    "name": "Kyle Anderson",
+    "team": "MEM",
+    "blocks": "0.6",
+    "games_played": "12"
+  },
+  {
+    "name": "Luka Dončić",
+    "team": "DAL",
+    "blocks": "0.6",
+    "games_played": "15"
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "MIL",
+    "blocks": "0.6",
+    "games_played": "12"
+  },
+  {
+    "name": "Kevin Huerter",
+    "team": "ATL",
+    "blocks": "0.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "MIA",
+    "blocks": "0.6",
+    "games_played": "8"
+  },
+  {
+    "name": "Patrick Williams",
+    "team": "CHI",
+    "blocks": "0.6",
+    "games_played": "5"
+  },
+  {
+    "name": "Jaylen Brown",
+    "team": "BOS",
+    "blocks": "0.5",
+    "games_played": "16"
+  },
+  {
+    "name": "Clint Capela",
+    "team": "ATL",
+    "blocks": "0.5",
+    "games_played": "2"
+  },
+  {
+    "name": "Jae Crowder",
+    "team": "PHO",
+    "blocks": "0.5",
+    "games_played": "13"
+  },
+  {
+    "name": "Blake Griffin",
+    "team": "BRK",
+    "blocks": "0.5",
+    "games_played": "2"
+  },
+  {
+    "name": "De'Anthony Melton",
+    "team": "MEM",
+    "blocks": "0.5",
+    "games_played": "10"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "UTA",
+    "blocks": "0.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Paul Reed",
+    "team": "PHI",
+    "blocks": "0.5",
+    "games_played": "12"
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "team": "TOR",
+    "blocks": "0.5",
+    "games_played": "6"
+  },
+  {
+    "name": "Derrick White",
+    "team": "BOS",
+    "blocks": "0.5",
+    "games_played": "15"
+  },
+  {
+    "name": "Devin Booker",
+    "team": "PHO",
+    "blocks": "0.4",
+    "games_played": "10"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "GSW",
+    "blocks": "0.4",
+    "games_played": "16"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "CHI",
+    "blocks": "0.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "team": "DAL",
+    "blocks": "0.4",
+    "games_played": "18"
+  },
+  {
+    "name": "Jeff Green",
+    "team": "DEN",
+    "blocks": "0.4",
+    "games_played": "5"
+  },
+  {
+    "name": "Tyler Herro",
+    "team": "MIA",
+    "blocks": "0.4",
+    "games_played": "14"
+  },
+  {
+    "name": "JaVale McGee",
+    "team": "PHO",
+    "blocks": "0.4",
+    "games_played": "12"
+  },
+  {
+    "name": "Ja Morant",
+    "team": "MEM",
+    "blocks": "0.4",
+    "games_played": "9"
+  },
+  {
+    "name": "Aaron Nesmith",
+    "team": "BOS",
+    "blocks": "0.4",
+    "games_played": "9"
+  },
+  {
+    "name": "Jordan Poole",
+    "team": "GSW",
+    "blocks": "0.4",
+    "games_played": "16"
+  },
+  {
+    "name": "Otto Porter Jr.",
+    "team": "GSW",
+    "blocks": "0.4",
+    "games_played": "13"
+  },
+  {
+    "name": "Marcus Smart",
+    "team": "BOS",
+    "blocks": "0.4",
+    "games_played": "13"
+  },
+  {
+    "name": "Max Strus",
+    "team": "MIA",
+    "blocks": "0.4",
+    "games_played": "16"
+  },
+  {
+    "name": "Daniel Theis",
+    "team": "BOS",
+    "blocks": "0.4",
+    "games_played": "14"
+  },
+  {
+    "name": "Grayson Allen",
+    "team": "MIL",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Scottie Barnes",
+    "team": "TOR",
+    "blocks": "0.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Charles Bassey",
+    "team": "PHI",
+    "blocks": "0.3",
+    "games_played": "3"
+  },
+  {
+    "name": "Bogdan Bogdanović",
+    "team": "ATL",
+    "blocks": "0.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Dillon Brooks",
+    "team": "MEM",
+    "blocks": "0.3",
+    "games_played": "11"
+  },
+  {
+    "name": "Mike Conley",
+    "team": "UTA",
+    "blocks": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Pat Connaughton",
+    "team": "MIL",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "team": "DAL",
+    "blocks": "0.3",
+    "games_played": "18"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "BRK",
+    "blocks": "0.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Danny Green",
+    "team": "PHI",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Jaxson Hayes",
+    "team": "NOP",
+    "blocks": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "NOP",
+    "blocks": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Zach LaVine",
+    "team": "CHI",
+    "blocks": "0.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Kevon Looney",
+    "team": "GSW",
+    "blocks": "0.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Wesley Matthews",
+    "team": "MIL",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Patty Mills",
+    "team": "BRK",
+    "blocks": "0.3",
+    "games_played": "4"
+  },
+  {
+    "name": "Shake Milton",
+    "team": "PHI",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "team": "NOP",
+    "blocks": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Victor Oladipo",
+    "team": "MIA",
+    "blocks": "0.3",
+    "games_played": "13"
+  },
+  {
+    "name": "Bobby Portis",
+    "team": "MIL",
+    "blocks": "0.3",
+    "games_played": "12"
+  },
+  {
+    "name": "Dwight Powell",
+    "team": "DAL",
+    "blocks": "0.3",
+    "games_played": "18"
+  },
+  {
+    "name": "P.J. Tucker",
+    "team": "MIA",
+    "blocks": "0.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "team": "MIN",
+    "blocks": "0.3",
+    "games_played": "6"
+  },
+  {
+    "name": "Gabe Vincent",
+    "team": "MIA",
+    "blocks": "0.3",
+    "games_played": "16"
+  },
+  {
+    "name": "Jose Alvarado",
+    "team": "NOP",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "OG Anunoby",
+    "team": "TOR",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Will Barton",
+    "team": "DEN",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Malik Beasley",
+    "team": "MIN",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Khem Birch",
+    "team": "TOR",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "team": "PHO",
+    "blocks": "0.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "team": "GSW",
+    "blocks": "0.2",
+    "games_played": "10"
+  },
+  {
+    "name": "Sterling Brown",
+    "team": "DAL",
+    "blocks": "0.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "team": "UTA",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "John Collins",
+    "team": "ATL",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "team": "DEN",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Torrey Craig",
+    "team": "PHO",
+    "blocks": "0.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "team": "MIA",
+    "blocks": "0.2",
+    "games_played": "14"
+  },
+  {
+    "name": "Devonte' Graham",
+    "team": "NOP",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "JaMychal Green",
+    "team": "DEN",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Aaron Holiday",
+    "team": "PHO",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Danuel House Jr.",
+    "team": "UTA",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "De'Andre Hunter",
+    "team": "ATL",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Tyus Jones",
+    "team": "MEM",
+    "blocks": "0.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "team": "GSW",
+    "blocks": "0.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Naji Marshall",
+    "team": "NOP",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "team": "PHI",
+    "blocks": "0.2",
+    "games_played": "12"
+  },
+  {
+    "name": "Moses Moody",
+    "team": "GSW",
+    "blocks": "0.2",
+    "games_played": "9"
+  },
+  {
+    "name": "Trey Murphy III",
+    "team": "NOP",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Royce O'Neale",
+    "team": "UTA",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Chris Paul",
+    "team": "PHO",
+    "blocks": "0.2",
+    "games_played": "13"
+  },
+  {
+    "name": "Taurean Prince",
+    "team": "MIN",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Austin Rivers",
+    "team": "DEN",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Jonas Valančiūnas",
+    "team": "NOP",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Delon Wright",
+    "team": "ATL",
+    "blocks": "0.2",
+    "games_played": "5"
+  },
+  {
+    "name": "Thaddeus Young",
+    "team": "TOR",
+    "blocks": "0.2",
+    "games_played": "6"
+  },
+  {
+    "name": "Steven Adams",
+    "team": "MEM",
+    "blocks": "0.1",
+    "games_played": "7"
+  },
+  {
+    "name": "Dāvis Bertāns",
+    "team": "DAL",
+    "blocks": "0.1",
+    "games_played": "18"
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "DAL",
+    "blocks": "0.1",
+    "games_played": "18"
+  },
+  {
+    "name": "Reggie Bullock",
+    "team": "DAL",
+    "blocks": "0.1",
+    "games_played": "18"
+  },
+  {
+    "name": "Cameron Johnson",
+    "team": "PHO",
+    "blocks": "0.1",
+    "games_played": "13"
+  },
+  {
+    "name": "John Konchar",
+    "team": "MEM",
+    "blocks": "0.1",
+    "games_played": "8"
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "team": "PHI",
+    "blocks": "0.1",
+    "games_played": "9"
+  },
+  {
+    "name": "Caleb Martin",
+    "team": "MIA",
+    "blocks": "0.1",
+    "games_played": "16"
+  },
+  {
+    "name": "Frank Ntilikina",
+    "team": "DAL",
+    "blocks": "0.1",
+    "games_played": "12"
+  },
+  {
+    "name": "Cameron Payne",
+    "team": "PHO",
+    "blocks": "0.1",
+    "games_played": "13"
+  },
+  {
+    "name": "Payton Pritchard",
+    "team": "BOS",
+    "blocks": "0.1",
+    "games_played": "16"
+  },
+  {
+    "name": "Duncan Robinson",
+    "team": "MIA",
+    "blocks": "0.1",
+    "games_played": "12"
+  },
+  {
+    "name": "Xavier Tillman Sr.",
+    "team": "MEM",
+    "blocks": "0.1",
+    "games_played": "9"
+  },
+  {
+    "name": "Juan Toscano-Anderson",
+    "team": "GSW",
+    "blocks": "0.1",
+    "games_played": "10"
+  },
+  {
+    "name": "Ish Wainright",
+    "team": "PHO",
+    "blocks": "0.1",
+    "games_played": "7"
+  },
+  {
+    "name": "Omer Yurtseven",
+    "team": "MIA",
+    "blocks": "0.1",
+    "games_played": "9"
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "team": "UTA",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Thanasis Antetokounmpo",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "Dalano Banton",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Bojan Bogdanović",
+    "team": "UTA",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Isaac Bonga",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Tony Bradley",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Armoni Brooks",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Troy Brown Jr.",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "3"
+  },
+  {
+    "name": "Trey Burke",
+    "team": "DAL",
+    "blocks": "0.0",
+    "games_played": "10"
+  },
+  {
+    "name": "Jared Butler",
+    "team": "UTA",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Facundo Campazzo",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Vlatko Čančar",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Jevon Carter",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "11"
+  },
+  {
+    "name": "Marquese Chriss",
+    "team": "DAL",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "Jarrett Culver",
+    "team": "MEM",
+    "blocks": "0.0",
+    "games_played": "3"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Goran Dragić",
+    "team": "BRK",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Kessler Edwards",
+    "team": "BRK",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Malik Fitts",
+    "team": "BOS",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Malachi Flynn",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Bryn Forbes",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Javonte Green",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Josh Green",
+    "team": "DAL",
+    "blocks": "0.0",
+    "games_played": "16"
+  },
+  {
+    "name": "Sam Hauser",
+    "team": "BOS",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Juancho Hernangómez",
+    "team": "UTA",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Willy Hernangómez",
+    "team": "NOP",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "team": "MIA",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "George Hill",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Bones Hyland",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Serge Ibaka",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "PHI",
+    "blocks": "0.0",
+    "games_played": "7"
+  },
+  {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Kevin Knox",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Luke Kornet",
+    "team": "BOS",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Damion Lee",
+    "team": "GSW",
+    "blocks": "0.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Timothé Luwawu-Cabarrot",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Boban Marjanović",
+    "team": "DAL",
+    "blocks": "0.0",
+    "games_played": "3"
+  },
+  {
+    "name": "Skylar Mays",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "team": "MIN",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Paul Millsap",
+    "team": "PHI",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Greg Monroe",
+    "team": "MIN",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Juwan Morgan",
+    "team": "BOS",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Markieff Morris",
+    "team": "MIA",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Monte Morris",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "3"
+  },
+  {
+    "name": "Georges Niang",
+    "team": "PHI",
+    "blocks": "0.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Zeke Nnaji",
+    "team": "DEN",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "Jaylen Nowell",
+    "team": "MIN",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Jordan Nwora",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "Josh Okogie",
+    "team": "MIN",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Eric Paschall",
+    "team": "UTA",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Elfrid Payton",
+    "team": "PHO",
+    "blocks": "0.0",
+    "games_played": "2"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "team": "MIN",
+    "blocks": "0.0",
+    "games_played": "6"
+  },
+  {
+    "name": "Landry Shamet",
+    "team": "PHO",
+    "blocks": "0.0",
+    "games_played": "12"
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "team": "BRK",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Jaden Springer",
+    "team": "PHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Nik Stauskas",
+    "team": "BOS",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "Garrett Temple",
+    "team": "NOP",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Cam Thomas",
+    "team": "BRK",
+    "blocks": "0.0",
+    "games_played": "1"
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Rayjon Tucker",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "8"
+  },
+  {
+    "name": "Luca Vildoza",
+    "team": "MIL",
+    "blocks": "0.0",
+    "games_played": "7"
+  },
+  {
+    "name": "Yuta Watanabe",
+    "team": "TOR",
+    "blocks": "0.0",
+    "games_played": "4"
+  },
+  {
+    "name": "Coby White",
+    "team": "CHI",
+    "blocks": "0.0",
+    "games_played": "5"
+  },
+  {
+    "name": "Ziaire Williams",
+    "team": "MEM",
+    "blocks": "0.0",
+    "games_played": "10"
+  },
+  {
+    "name": "Trae Young",
+    "team": "ATL",
+    "blocks": "0.0",
+    "games_played": "5"
+  }
+]
