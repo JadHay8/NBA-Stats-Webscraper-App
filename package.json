@@ -1,19 +1,18 @@
 {
-  "name": "webscraper",
+  "name": "NBA Webscraper API",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Johnny Nguyen, Jad Haytaoglu",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10",
-    "cross-fetch": "^3.1.5",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "pug": "^3.0.2"
   }
 }
