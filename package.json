@@ -1,17 +1,26 @@
 {
-  "name": "NBA Webscraper API",
+  "name": "nba-stats-webscraper-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "NBA Stats Webscraping API ",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadHay8/NBA-Stats-Webscraper-App.git"
   },
   "author": "Johnny Nguyen, Jad Haytaoglu",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadHay8/NBA-Stats-Webscraper-App/issues"
+  },
+  "homepage": "https://github.com/JadHay8/NBA-Stats-Webscraper-App#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.1",
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
     "nodemon": "^2.0.16",
     "pug": "^3.0.2"
   }
