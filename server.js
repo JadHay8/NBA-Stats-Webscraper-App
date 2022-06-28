@@ -1,6 +1,7 @@
 const PORT = process.env.PORT || 3000;
 const express = require('express');
 const app = express();
+const path = require('path');
 
 //Routers
 const serverRouter = require('./routers/server-router');
@@ -23,7 +24,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 //Note sure if necessary but included incase
 
-/*app.use((req, res, next)=> {
+app.use((req, res, next)=> {
     console.log(`${req.method}: ${req.url}`);
     if (Object.keys(req.body).length > 0){
         console.log('Body: ');
@@ -31,7 +32,7 @@ app.use(express.urlencoded({extended: true}));
     }
     next();
 });
-*/
+
 
 //Server Routes
 app.use('/', serverRouter);
