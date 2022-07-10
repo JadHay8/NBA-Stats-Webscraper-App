@@ -6,7 +6,8 @@ const path = require('path');
 //Routers
 const serverRouter = require('./routers/server-router');
 
-const url = 'https://www.basketball-reference.com/playoffs/NBA_2022_per_game.html';
+app.locals.url = 'https://www.basketball-reference.com/playoffs/NBA_2022_per_game.html';
+console.log(app.locals.url);
 
 //Global variables
 app.locals.top5_pts = [];
@@ -37,5 +38,17 @@ app.use((req, res, next)=> {
 //Server Routes
 app.use('/', serverRouter);
 
+//Backend to Frontend video stuff
+
+// app.get('/', function (req, res) {
+//     res.json('This is my webscraper')
+// })
+
+// app.get('/results', () => {
+
+// })
+
+
+//app.listen
 app.listen(PORT, () => console.log(`server running on PORT ${PORT}`))
 
