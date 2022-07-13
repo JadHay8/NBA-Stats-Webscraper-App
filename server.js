@@ -6,16 +6,14 @@ const path = require('path');
 //Routers
 const serverRouter = require('./routers/server-router');
 
-app.locals.url = 'https://www.basketball-reference.com/playoffs/NBA_2022_per_game.html';
-console.log(app.locals.url);
 
 //Global variables
-app.locals.top5_pts = [];
-app.locals.top5_ast = [];
-app.locals.top5_reb = [];
-app.locals.top5_stl = [];
-app.locals.top5_blk = [];
-app.locals.top5_3pt = [];
+// app.locals.top5_pts = [];
+// app.locals.top5_ast = [];
+// app.locals.top5_reb = [];
+// app.locals.top5_stl = [];
+// app.locals.top5_blk = [];
+// app.locals.top5_3pt = [];
 
 //Setup middleware
 app.set(path.join(__dirname, 'views'));
@@ -37,7 +35,7 @@ app.use((req, res, next)=> {
 
 //Server Routes
 app.use('/', serverRouter);
-
+app.use('/top5',serverRouter);
 //Backend to Frontend video stuff
 
 // app.get('/', function (req, res) {

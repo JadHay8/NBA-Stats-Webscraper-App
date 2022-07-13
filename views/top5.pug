@@ -1,0 +1,44 @@
+html
+    head
+        title 2022 NBA Playoff Leaders 
+
+    body 
+        include ./header
+        h1 2022 NBA Playoff Leaders
+        br
+        div(id='top5points')
+            h2 Points Per Game Leaders (PPG)
+            ul
+                each num in top5_points
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | PPG: " + num.points
+        br
+        div(id='top5assists')
+            h2 Assist Per Game Leaders (APG)
+            ul
+                each num in top5_ast
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | APG: " + num.assists
+        br
+        div(id='top5rebounds')
+            h2 Rebounds Per Game Leaders (RPG)
+            ul
+                each num in top5_reb
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | RPG: " + num.rebounds
+        br
+        div(id='top5steals')
+            h2 Steals Per Game Leaders (SPG)
+            ul
+                each num in top5_stl
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | SPG: " + num.steals
+        br
+        div(id='top5blocks')
+            h2 Blocks Per Game Leaders (BPG)
+            ul
+                each num in top5_blk
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | BPG: " + num.blocks
+        br
+        div(id='top5points')
+            h2 Three Point Percentage Game Leaders (3PT)
+            ul
+                each num in top5_3pt
+                    li= num.name + " | " + num.team + " | Games Played: " + num.games_played + " | 3P%: " + num.three_pt_pct
+
