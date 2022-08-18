@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JadHay8/NBA-Stats-Webscraper-App#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
     "cheerio": "^1.0.0-rc.11",
     "express": "^4.18.1",
     "nodemon": "^2.0.18",
