@@ -1,9 +1,9 @@
 // const express = require("express");
 // const app = express();
-// // const path = require("path");
+// const path = require("path");
 
 // //Routers
-// const serverRouter = require("./routers/server-router");
+// const serverRouter = require("../../routers/server-router");
 
 // //Global variables
 // // app.locals.top5_pts = [];
@@ -29,8 +29,8 @@
 // // });
 
 // //Server Routes
-// app.use("/", serverRouter);
+// // app.use("/", serverRouter);
 // app.use("/top5", serverRouter);
 
-// const PORT = process.env.PORT || 8000;
+// const PORT = process.env.PORT || 3000;
 // app.listen(PORT, () => console.log(`server running on PORT ${PORT}`));
