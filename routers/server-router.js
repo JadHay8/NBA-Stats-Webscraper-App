@@ -18,6 +18,7 @@ axios(url)
     const html = response.data;
     const $ = cheerio.load(html);
     const playerstats = [];
+    var id = 1;
 
     $('tr[class="full_table"]', html).each(function () {
       //Variables to find player name and points per game
@@ -32,6 +33,7 @@ axios(url)
       const team = $(this).find('td[data-stat="team_id"]').text();
       //Pushing variables to playerstats array
       playerstats.push({
+        id,
         name,
         team,
         games_played,
@@ -42,6 +44,7 @@ axios(url)
         blocks,
         three_pt_pct,
       });
+      id++;
     });
     //Sorting arrays by category
     //console.log(statSort(playerstats,"points"));

@@ -4,6 +4,7 @@
     "value": "top 5 points",
     "data": [
       {
+        "id": 8,
         "name": "Giannis Antetokounmpo",
         "team": "MIL",
         "games_played": "12",
@@ -15,6 +16,7 @@
         "three_pt_pct": ".220"
       },
       {
+        "id": 63,
         "name": "Luka Dončić",
         "team": "DAL",
         "games_played": "15",
@@ -26,6 +28,7 @@
         "three_pt_pct": ".345"
       },
       {
+        "id": 110,
         "name": "Nikola Jokić",
         "team": "DEN",
         "games_played": "5",
@@ -37,6 +40,7 @@
         "three_pt_pct": ".278"
       },
       {
+        "id": 40,
         "name": "Jimmy Butler",
         "team": "MIA",
         "games_played": "17",
@@ -48,6 +52,7 @@
         "three_pt_pct": ".338"
       },
       {
+        "id": 58,
         "name": "Stephen Curry",
         "team": "GSW",
         "games_played": "22",
@@ -65,6 +70,7 @@
     "value": "top 5 assists",
     "data": [
       {
+        "id": 145,
         "name": "Ja Morant",
         "team": "MEM",
         "games_played": "9",
@@ -76,6 +82,7 @@
         "three_pt_pct": ".340"
       },
       {
+        "id": 86,
         "name": "James Harden",
         "team": "PHI",
         "games_played": "12",
@@ -87,6 +94,7 @@
         "three_pt_pct": ".368"
       },
       {
+        "id": 163,
         "name": "Chris Paul",
         "team": "PHO",
         "games_played": "13",
@@ -98,6 +106,7 @@
         "three_pt_pct": ".388"
       },
       {
+        "id": 138,
         "name": "Khris Middleton",
         "team": "MIL",
         "games_played": "2",
@@ -109,6 +118,7 @@
         "three_pt_pct": ".429"
       },
       {
+        "id": 8,
         "name": "Giannis Antetokounmpo",
         "team": "MIL",
         "games_played": "12",
@@ -126,6 +136,7 @@
     "value": "top 5 rebounds",
     "data": [
       {
+        "id": 198,
         "name": "Jonas Valančiūnas",
         "team": "NOP",
         "games_played": "6",
@@ -137,6 +148,7 @@
         "three_pt_pct": ".167"
       },
       {
+        "id": 8,
         "name": "Giannis Antetokounmpo",
         "team": "MIL",
         "games_played": "12",
@@ -148,6 +160,7 @@
         "three_pt_pct": ".220"
       },
       {
+        "id": 110,
         "name": "Nikola Jokić",
         "team": "DEN",
         "games_played": "5",
@@ -159,6 +172,7 @@
         "three_pt_pct": ".278"
       },
       {
+        "id": 76,
         "name": "Rudy Gobert",
         "team": "UTA",
         "games_played": "6",
@@ -170,6 +184,7 @@
         "three_pt_pct": ""
       },
       {
+        "id": 203,
         "name": "Nikola Vučević",
         "team": "CHI",
         "games_played": "5",
@@ -187,6 +202,7 @@
     "value": "top 5 steals",
     "data": [
       {
+        "id": 40,
         "name": "Jimmy Butler",
         "team": "MIA",
         "games_played": "17",
@@ -198,6 +214,7 @@
         "three_pt_pct": ".338"
       },
       {
+        "id": 145,
         "name": "Ja Morant",
         "team": "MEM",
         "games_played": "9",
@@ -209,6 +226,7 @@
         "three_pt_pct": ".340"
       },
       {
+        "id": 63,
         "name": "Luka Dončić",
         "team": "DAL",
         "games_played": "15",
@@ -220,6 +238,7 @@
         "three_pt_pct": ".345"
       },
       {
+        "id": 96,
         "name": "Jrue Holiday",
         "team": "MIL",
         "games_played": "12",
@@ -231,6 +250,7 @@
         "three_pt_pct": ".316"
       },
       {
+        "id": 60,
         "name": "DeMar DeRozan",
         "team": "CHI",
         "games_played": "5",
@@ -248,6 +268,7 @@
     "value": "top 5 blocks",
     "data": [
       {
+        "id": 106,
         "name": "Jaren Jackson Jr.",
         "team": "MEM",
         "games_played": "12",
@@ -259,6 +280,7 @@
         "three_pt_pct": ".375"
       },
       {
+        "id": 49,
         "name": "Nic Claxton",
         "team": "BRK",
         "games_played": "4",
@@ -270,6 +292,7 @@
         "three_pt_pct": ""
       },
       {
+        "id": 212,
         "name": "Robert Williams",
         "team": "BOS",
         "games_played": "17",
@@ -281,6 +304,7 @@
         "three_pt_pct": ".000"
       },
       {
+        "id": 194,
         "name": "Karl-Anthony Towns",
         "team": "MIN",
         "games_played": "6",
@@ -292,6 +316,7 @@
         "three_pt_pct": ".455"
       },
       {
+        "id": 134,
         "name": "Jaden McDaniels",
         "team": "MIN",
         "games_played": "6",
@@ -309,6 +334,7 @@
     "value": "top 5 three",
     "data": [
       {
+        "id": 119,
         "name": "Luke Kornet",
         "team": "BOS",
         "games_played": "9",
@@ -320,6 +346,7 @@
         "three_pt_pct": "1.000"
       },
       {
+        "id": 72,
         "name": "Malik Fitts",
         "team": "BOS",
         "games_played": "9",
@@ -331,6 +358,7 @@
         "three_pt_pct": "1.000"
       },
       {
+        "id": 154,
         "name": "Zeke Nnaji",
         "team": "DEN",
         "games_played": "2",
@@ -342,6 +370,7 @@
         "three_pt_pct": "1.000"
       },
       {
+        "id": 95,
         "name": "Aaron Holiday",
         "team": "PHO",
         "games_played": "6",
@@ -353,6 +382,7 @@
         "three_pt_pct": ".714"
       },
       {
+        "id": 173,
         "name": "Paul Reed",
         "team": "PHI",
         "games_played": "12",

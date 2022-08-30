@@ -1,5 +1,6 @@
 import { data } from "cheerio/lib/api/attributes";
 import React from "react";
+import "../styles/displayTable.css";
 // const json_data = require("../data/stats.json");
 // const fs = require("fs");
 
@@ -108,14 +109,55 @@ class DisplayTable extends React.Component {
   // }
 
   render() {
+    // var i = 0;
     let tb_data = this.state.list.map((stat_type) => {
+      // let x = () => {
+      //   for (var j = 0; j <= 6; j++) {
+      //     console.log(j);
+      //     if (j == 6) {
+      //       console.log("THIS RAN");
+      //       return (
+      //         <tr className="blank_row">
+      //           <td colSpan="8"></td>
+      //         </tr>
+      //       );
+      //     }
+      //     const obj = stat_type.data[j];
+      //     console.log("else RAAN");
+      //     return (
+      //       <tr key={obj.id}>
+      //         <td>{obj.name}</td>
+      //         <td>{obj.team}</td>
+      //         <td>{obj.points}</td>
+      //         <td>{obj.assists}</td>
+      //         <td>{obj.rebounds}</td>
+      //         <td>{obj.steals}</td>
+      //         <td>{obj.blocks}</td>
+      //         <td>{obj.three_pt_pct}</td>
+      //       </tr>
+      //     );
+      //   }
+      // };
+      // x();
+      // if (i == 5) {
+      //   i = 0;
+      //   return (
+      // <tr className="blank_row">
+      //   <td colSpan="8"></td>
+      // </tr>
+      //   );
+      // }
       return stat_type.data.map((obj) => {
         return (
-          <tr>
+          <tr key={obj.id}>
             <td>{obj.name}</td>
             <td>{obj.team}</td>
             <td>{obj.points}</td>
             <td>{obj.assists}</td>
+            <td>{obj.rebounds}</td>
+            <td>{obj.steals}</td>
+            <td>{obj.blocks}</td>
+            <td>{obj.three_pt_pct}</td>
           </tr>
         );
         // console.log("OBJ: \t", obj);
@@ -203,6 +245,10 @@ class DisplayTable extends React.Component {
               <th>Team</th>
               <th>Points</th>
               <th>Assists</th>
+              <th>Rebounds</th>
+              <th>Steals</th>
+              <th>Blocks</th>
+              <th>3pt%</th>
             </tr>
           </thead>
           <tbody>{tb_data}</tbody>
